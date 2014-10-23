@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-I am doing the hello world tutorial
+I am doing the hello tutorial
 
 This is a totally sick update
